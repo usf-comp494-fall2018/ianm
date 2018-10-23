@@ -3,3 +3,9 @@
 ################################################################################
 
 /Calculator/.vs/Calculator
+/Calculator/Calculator/bin/Debug/netcoreapp2.0
+/Calculator/Calculator/obj
+/Calculator/Mycalculator/bin/Debug/netstandard2.0
+/Calculator/Mycalculator/obj
+/Calculator/XUnitTestProject1/bin/Debug/netcoreapp2.0
+/Calculator/XUnitTestProject1/obj
