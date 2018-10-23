@@ -3,6 +3,16 @@
 ################################################################################
 
 /Calculator/.vs/Calculator
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Homework2/Homework2/bin/Debug/netcoreapp2.0
+/Homework3/.vs/Homework3
+/Homework3/Homework3/obj/Debug/netstandard2.0
+/Homework2/Homework2/obj
+/Homework3/Homework3/obj
 /Calculator/Calculator/bin/Debug/netcoreapp2.0
 /Calculator/Calculator/obj
 /Calculator/Mycalculator/bin/Debug/netstandard2.0
