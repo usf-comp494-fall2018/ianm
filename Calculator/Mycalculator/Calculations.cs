@@ -61,7 +61,7 @@ namespace Mycalculator
 
             double value1 = sortedarray[mid];  //what about if i put int or double 
             double value2 = sortedarray[mid - 1];
-            double value3 = sortedarray[mid] + value2 * 0.5;
+            double value3 = (value1 + value2) * 0.5;
             return (value3);
         }
     }
